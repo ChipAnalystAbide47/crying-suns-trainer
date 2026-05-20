@@ -1,0 +1,9 @@
+# Crying Suns Trainer - Build Dependencies
+# This file lists NuGet packages required for building the project.
+# Use: dotnet restore
+
+[packages]
+Memory.dll=1.2.3
+Moq=4.18.4
+xunit=2.4.2
+xunit.runner.visualstudio=2.4.5
